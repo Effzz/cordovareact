@@ -1,2 +1,2 @@
-# cordovareact
+# CordovaReact
 Cordova with ReactJS
