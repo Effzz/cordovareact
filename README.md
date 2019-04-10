@@ -1,1 +1,3 @@
-# vanyagalon
+# CordovaReact
+Cordova with ReactJS
+
